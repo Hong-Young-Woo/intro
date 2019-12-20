@@ -15,7 +15,7 @@
 <u> u tag </u>
 
 <ol> 1. hust 
-     - clug
+     - club 
      2. hongik
      - university 
 </ol>
